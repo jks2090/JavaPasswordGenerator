@@ -1,0 +1,3 @@
+## Java Password Generator
+
+This specific repository provides for a random password generator using javascript via logical statements of ifs, else ifs, concatination, random functions, testing var lengths, etc. Using these statements, the password generator creates a randomized password which can include upper case, lower case, special case, and numbers using built in prompts. It can also create passwords based of user input lengths, (testing for if the user does not input values that meet specifications of no greater than 129 characters and no less than 8 characters), and also contains a function that tests to make sure the user has not input a string instead of a number using isNaN or (is not a number) function. 
